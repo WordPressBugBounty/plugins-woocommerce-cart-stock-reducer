@@ -1,0 +1,1 @@
+# plugins-woocommerce-cart-stock-reducer
